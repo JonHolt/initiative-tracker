@@ -1,0 +1,26 @@
+body {
+	color: #FFF;
+	background-color: #000;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.value {
+	display: inline-block;
+	width: 2em;
+}
+
+#nextTurn {
+	width: 93%;
+	height: 4em;
+	margin: 1em;
+}
+
+#newMod {
+	width: 3em;
+}
+
+#initiativeList {
+	list-style: none;
+}
